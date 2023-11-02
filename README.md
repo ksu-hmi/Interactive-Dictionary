@@ -1,7 +1,8 @@
 # Interactive-Dictionary
+
 Allows users to find the meaning of a word in seconds, as well as provide word suggestion in case of a misspelling. 
 
-Create a dictionary in Python which can retrieve definitions for user, ask 'did you mean this instead?' if user made a typo while entering the word, and if the word has more than one definition then retrieve them all.
+Create a dictionary in Python which can retrieve definitions for user, provide user with word suggestions in case of a misspelling if user made a typo while entering the word, and if the word has more than one definition then retrieve them all.
 
 ## 1. Installing dependencies
 
